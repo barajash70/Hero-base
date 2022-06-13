@@ -38,9 +38,19 @@
 
   }
 
+  .bg {
+    background-color: #ffffff;
+    width: 100%;
+    height: 6rem;
+    position: absolute;
+    bottom: -6.9rem;
+    transform: rotate(-10deg) scale(2);
+
+  }
+
   .logo {
     margin-left: 2rem;
-    margin-top: 18rem;
+    margin-top: 15rem;
   }
 
   .textos {
